@@ -17,7 +17,7 @@ This app helps to find Corona Virus current status in the whole world. Number of
 2. SpringBoot
 3. Intellij Idea
 
-*Note:-* In this data is collected from remote API
+*Note:-* In this project data is collected from remote API
 
 ## Screenshots
 
